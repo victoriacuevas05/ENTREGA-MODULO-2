@@ -1,2 +1,0 @@
-# mi- simulador
-victoria cuevas
